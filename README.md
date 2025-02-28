@@ -10,8 +10,8 @@ The project includes an **IPython Notebook** (`.ipynb`) that demonstrates how to
 
 The trained model files are large and hosted on Google Drive for easy access:
 
-- [Download Model A: age_gender_A.h5](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
-- [Download Model B: age_gender_B.h5](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
+- [Download Model A: age_gender_A.h5](https://drive.google.com/file/d/1-OWI6CH6YtC3MQNPWvroggtySoj-Zwpt/view?usp=sharing)
+- [Download Model B: age_gender_B.h5](https://drive.google.com/file/d/1-4fT6Hi4b4rAXqxm5WAmQlH0N92rVU1S/view?usp=sharing)
 
 ### Requirements
 
